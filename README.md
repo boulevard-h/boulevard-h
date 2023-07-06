@@ -23,4 +23,4 @@
 ### **Log**
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boulevard-h&show_icons=true&theme=tokyonight)
 ### **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boulevard-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boulevard-h&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
