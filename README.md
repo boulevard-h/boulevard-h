@@ -6,7 +6,7 @@
 **Blog:** [blog-boulevard.top](https://blog-boulevard.top/)
 
 **Currently:**
-- Deepin Community(practice), UnionTech
+- Deepin Community, UnionTech (practice)
 - School of Cyber Science and Technology, BUAA
 
 <p>
