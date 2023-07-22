@@ -2,12 +2,13 @@
 - Student majoring in InfoSec.
 - Custom keyboard fan
 
-
 **Blog:** [blog-boulevard.top](https://blog-boulevard.top/)
 
 **Currently:**
-- Deepin Community, UnionTech (practice)
 - School of Cyber Science and Technology, BUAA
+
+**Previously:**
+- Deepin Community, UnionTech (practice)
 
 <p>
 
