@@ -2,7 +2,7 @@
 - Student majoring in InfoSec.
 - Custom keyboard fan
 
-**Blog:** [blog-boulevard.top](https://blog-boulevard.top/)
+**Blog:** [blog.boulevard.aisa](https://blog.boulevard.aisa/)
 
 **Currently:**
 - School of Cyber Science and Technology, BUAA
