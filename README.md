@@ -1,5 +1,5 @@
 # BOULEVARD-H
-- Student majoring in InfoSec.
+- Student majoring in InfoSec
 - Custom keyboard fan
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
@@ -15,6 +15,8 @@
 **Contact:**
 
 [![Send me Email](https://img.shields.io/static/v1?label=email&message=qq1549819758@gmail.com&color=orange&style=flat-square)](mailto:qq1549819758@gmail.com)
+
+[![Send me Email](https://img.shields.io/static/v1?label=email&message=1549819758@qq.com&color=blue&style=flat-square)](mailto:1549819758@qq.com)
 
 </p>
 
