@@ -1,11 +1,12 @@
 # BOULEVARD-H
 - Student majoring in InfoSec
 - Custom keyboard fan
+- Learning kernel fuzzing now
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
 
 **Currently:**
-- School of Cyber Science and Technology, BUAA
+- Infomation Security, School of Cyber Science and Technology, BUAA
 
 **Previously:**
 - Deepin Community, UnionTech (practice)
