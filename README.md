@@ -1,23 +1,26 @@
 # BOULEVARD-H
-- Student majoring in InfoSec
+- Student majoring in Cyberspace Security
+- Learning Blockchain now
+- Now something about Linux Kernel Fuzzing
 - Custom keyboard fan
-- Learning kernel fuzzing now
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
 
 **Currently:**
-- Infomation Security, School of Cyber Science and Technology, BUAA
+- Cyberspace Security(Master), School of Cyber Science and Technology, BUAA
 
 **Previously:**
+- Infomation Security(Bachelor), School of Cyber Science and Technology, BUAA
+- BASS(BUAA Analysis of System Security)
 - Deepin Community, UnionTech (practice)
 
 <p>
 
 **Contact:**
 
-[![Send me Email](https://img.shields.io/static/v1?label=email&message=qq1549819758@gmail.com&color=orange&style=flat-square)](mailto:qq1549819758@gmail.com)
+[![Send me Email](https://img.shields.io/static/v1?label=email&message=yuxuanhu@buaa.edu.cn&color=blue&style=flat-square)](mailto:yuxuanhu@buaa.edu.cn)
 
-[![Send me Email](https://img.shields.io/static/v1?label=email&message=1549819758@qq.com&color=blue&style=flat-square)](mailto:1549819758@qq.com)
+[![Send me Email](https://img.shields.io/static/v1?label=email&message=qq1549819758@gmail.com&color=orange&style=flat-square)](mailto:qq1549819758@gmail.com)
 
 </p>
 
