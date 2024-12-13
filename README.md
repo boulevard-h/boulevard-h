@@ -1,7 +1,7 @@
 # BOULEVARD-H
 - Student majoring in Cyberspace Security
 - Learning Blockchain now
-- Now something about Linux Kernel Fuzzing
+- Linux Kernel Protocol Stack Fuzzing
 - Custom keyboard fan
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
@@ -27,7 +27,6 @@
 
 ### **My Github Stats**  
 ![boulevard-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&theme=tokyonight&show_icons=true) 
-### **Log**
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boulevard-h&show_icons=true&theme=tokyonight)
+
 ### **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boulevard-h&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
