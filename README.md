@@ -1,17 +1,18 @@
 # BOULEVARD-H
 - Student majoring in Cyberspace Security
-- Learning Blockchain now
+- Blockchain Sharding
 - Linux Kernel Protocol Stack Fuzzing
-- Custom keyboard fan
+- Custom Keyboard Fan
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
 
 **Currently:**
 - Cyberspace Security(Master), School of Cyber Science and Technology, BUAA
+- LLM Security Research, Clouditera (practice)
 
 **Previously:**
 - Infomation Security(Bachelor), School of Cyber Science and Technology, BUAA
-- BASS(BUAA Analysis of System Security)
+- BASS (Beihang Analysis of System Security)
 - Deepin Community, UnionTech (practice)
 
 <p>
