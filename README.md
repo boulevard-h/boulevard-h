@@ -8,12 +8,12 @@
 
 **Currently:**
 - Cyberspace Security(Master), School of Cyber Science and Technology, BUAA
-- LLM Security Research, Clouditera (practice)
+- LLM Security Research, Clouditera (Intern)
 
 **Previously:**
 - Infomation Security(Bachelor), School of Cyber Science and Technology, BUAA
 - BASS (Beihang Analysis of System Security)
-- Deepin Community, UnionTech (practice)
+- Deepin Community, UnionTech (Intern)
 
 <p>
 
