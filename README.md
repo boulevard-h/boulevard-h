@@ -28,5 +28,5 @@
 </p>
 
 
-### **My Github Stats**  
-![Boulevard-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&show_icons=true)
+### My Github Stats
+![Boulevard-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&show_icons=true&cache_seconds=1800)
