@@ -1,21 +1,21 @@
 # BOULEVARD-H
 - Student majoring in Cyberspace Security
-- Blockchain Sharding
+- Agent Dev. & Backend Eng.
+- Sharding Blockchain
 - Linux Kernel Protocol Stack Fuzzing
-- Security LLM
 - Custom Keyboard Fan
 
 **Blog:** [blog.boulevard.asia](https://blog.boulevard.asia/)
 
 **Currently:**
-- Cyberspace Security(Master), School of Cyber Science and Technology, BUAA
-- RD, Bytedance(ByteIntern)
+- Cyberspace Security (Master), Beihang University
+- RD, Bytedance (ByteIntern)
 
 **Previously:**
-- Infomation Security(Bachelor), School of Cyber Science and Technology, BUAA
-- BASS(Beihang Analysis of System Security)
-- Security LLM Researcher, Clouditera(Intern)
-- Deepin Community, UnionTech(Intern)
+- Infomation Security (Bachelor), Beihang University
+- Security LLM Researcher, Clouditera (Intern)
+- BASS (Beihang Analysis of System Security)
+- Deepin Community, UnionTech (Intern)
 
 <p>
 
