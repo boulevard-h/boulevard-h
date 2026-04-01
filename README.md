@@ -29,5 +29,4 @@
 
 
 ### **My Github Stats**  
-[![boulevard-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h
-)](https://github.com/anuraghazra/github-readme-stats)
+![Boulevard-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&show_icons=true)
