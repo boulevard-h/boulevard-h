@@ -26,7 +26,3 @@
 [![Send me Email](https://img.shields.io/static/v1?label=email&message=qq1549819758@gmail.com&color=orange&style=flat-square)](mailto:qq1549819758@gmail.com)
 
 </p>
-
-
-### My Github Stats
-![Boulevard-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&show_icons=true&cache_seconds=1800)
