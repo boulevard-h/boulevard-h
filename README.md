@@ -29,7 +29,5 @@
 
 
 ### **My Github Stats**  
-![boulevard-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h&theme=tokyonight&show_icons=true) 
-
-### **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boulevard-h&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![boulevard-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulevard-h
+)](https://github.com/anuraghazra/github-readme-stats)
